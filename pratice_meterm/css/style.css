@@ -1,0 +1,32 @@
+body{
+    background: turquoise;
+}
+.container{
+    padding: 10px;
+    margin-top: 100px;
+}
+.box-content{
+   
+    width: 300px;
+    background: white;
+    margin-top: 5px;
+
+}
+button{
+    height: 30px;
+    background: orange;
+    margin: -3.7px;
+    border: none;
+}
+input{
+    width: 300px;
+    height: 30px;
+    border: none;
+}
+.box-bottom{
+
+    margin-top:5px;
+}
+ul{
+    list-style: none;
+}
